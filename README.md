@@ -18,7 +18,7 @@
     </span>
   </a>
 </div>
-# The Enchanted Grove of Tongues
+The Enchanted Grove of Tongues
 
 Long ago, in the shimmering realm of **Algorithmia**, there stood a colossal crystal tree known as the **Grove of Tongues**. Its leaves were not made of chlorophyll but of pure syntax, each one a living embodiment of a programming language. The grove was tended by a gentle sprite named **Coda**, who hummed algorithms to keep the leaves bright.
 
