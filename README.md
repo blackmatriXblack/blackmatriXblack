@@ -5,6 +5,5 @@ The Bible is a unified collection of sacred texts that narrates the overarching 
 ![Followers](https://img.shields.io/github/followers/blackmatriXblack?style=for-the-badge&logo=github&label=Followers&color=black)
 ![Public Repos](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FblackmatriXblack&query=%24.public_repos&style=for-the-badge&logo=github&label=Public%20Repos&color=success)
 ![Public Gists](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FblackmatriXblack&query=%24.public_gists&style=for-the-badge&logo=github&label=Gists&color=orange)
-![Joined](https://img.shields.io/github/created-at/blackmatriXblack?style=for-the-badge&logo=github&label=Joined&color=blueviolet)
 ![Bio](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FblackmatriXblack&query=%24.bio&style=for-the-badge&logo=github&label=Bio&color=informational)
 ![GitHub](https://img.shields.io/badge/GitHub-blackmatriXblack-181717?style=for-the-badge&logo=github)
