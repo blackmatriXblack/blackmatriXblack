@@ -16,3 +16,6 @@ mail:00xx00@internet.ru
 
 
 never for never being 
+
+china 
+never starlink 
