@@ -34,6 +34,7 @@ unlogicmachinelearning
 ![Bio](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FblackmatriXblack&query=%24.bio&style=for-the-badge&logo=github&label=Bio&color=informational)
 ![GitHub](https://img.shields.io/badge/GitHub-blackmatriXblack-181717?style=for-the-badge&logo=github)  
 
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FblackmatriXblack%2Flocalfilessystem&countColor=%23263759&style=flat)
 
 mail:  zeroprojectapex@foxmail.com
 
