@@ -39,12 +39,4 @@ unlogicmachinelearning
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FblackmatriXblack%2Frealtime-monitor-windowscomputer&label=loveyou&countColor=%23263759&style=flat)
 
 
-
-
-
-never for never being 
-
-Wish just heaven.
-
-
-nevertheless 
+HE.NET
